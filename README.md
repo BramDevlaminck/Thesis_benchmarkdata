@@ -9,7 +9,7 @@ Installation instructions for git LFS can be found [here](https://docs.github.co
 Downloading all the files in this repository is as easy as executing the following command.
 
 ```sh
-git lfs clone https://github.com/BramDevlaminck/Thesis_benchmarkdata.git
+git clone https://github.com/BramDevlaminck/Thesis_benchmarkdata.git
 ```
 
 
